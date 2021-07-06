@@ -38,7 +38,7 @@ $ git commit -m "done"
 $ git push origin main
 ```
 
-Crea una Pull Request para que tus maestros puedan verificar 
+Crea una Plul Request para que tus maestros puedan verificar 
 
 ## Instrucciones
 
@@ -46,7 +46,7 @@ Vaz a trabajar en el folder `apple-pie`. Dentro encontrarás todos los archivos,
 
 ## Esperado
 
-Encontrarás una screenshot (captura de pantalla) sobre lo que se espera del resultado final:
+Encontrarás una screenshot (captura de pantalla) sobre lo que se espera del reslutado final:
 
 
 ![Apple Pie](https://i.imgur.com/lGGM68Q.jpg)
@@ -55,7 +55,7 @@ Encontrarás una screenshot (captura de pantalla) sobre lo que se espera del res
 
 ## Puntos extra
 
-La practica hace a un maestro jedi, si piensas que necesitas más práctica, puedes seguir trabajando sobre el ejersicio `french-soup`. Dentro encontrarás un `expected-result.md` . Donde podrás encontrar 
+La practica hace a un maestro jedi, si piensas que necesitas más práctica, puedes seguir trabajando sobre el ejersicio `french-soup`. Dentro encontrarás un `expected-reslut.md` . Donde podrás encontrar 
 la versión final. Tiene la misma estructura que `apple-pie`
 
 ## Recursos Extra

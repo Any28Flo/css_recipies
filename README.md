@@ -23,7 +23,7 @@ selectores si y solo si, quieres editar _cada_ elemento de ese tipo
 - Usa un solo archivo para darles estilos a las páginas
 - Usa las imagenes para construir los diferentes elementos de la página:
 
-- Use the images provided to construct the appropriate elements on the page:
+- Utiliza los elementos que te proporcionamos para crear el código:
   - El background con la foto del apple pie
   - The recipe servings / nutrients section
   - The prep section

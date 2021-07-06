@@ -7,3 +7,41 @@ html {
   font-family: "Open Sans", sans-serif;
   font-size: 18px;
 }
+#info{
+  padding: 10%;
+  font-size: 30px;
+}
+h3{
+  font-size: 35px;
+  text-align: justify;
+}
+#image_pie {
+  background-image: url("../images/apple-pie.jpg");
+  background-size: cover;
+  vertical-align: bottom;
+  align-items: center;
+  height: 500px;
+}
+
+h1{
+  padding: 15%;
+  text-align: center;
+  font-size: 100px;
+  color: white;
+}
+
+#cooking_info{
+  background-image: url("../images/cooking-info.png");
+  height: 25px;
+  padding: 10%;
+  background-position: center; 
+  background-repeat: no-repeat;
+}
+
+#recipe_info{
+  background-image: url("../images/recipe-info.png");
+  height: 25px;
+  padding: 10%;
+  background-position: center; 
+  background-repeat: no-repeat;
+}

@@ -35,7 +35,7 @@ Una vez terminado ejecuta los siguientes comandos:
 ```
 $ git add .
 $ git commit -m "done"
-$ git push origin master
+$ git push origin main
 ```
 
 Crea una Pull Request para que tus maestros puedan verificar 

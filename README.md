@@ -18,10 +18,9 @@ Acá te vamos a proporcionar el código inicial.
 
 - [Fork](https://guides.github.com/activities/forking/) este repo
 - Clona este repo
-- Asegurate de utilizar los selectores de `class` and `id` en el ejercicio. Recuerda utilizar los
-selectores si y solo si, quieres editar _cada_ elemento de ese tipo
+- Asegurate de utilizar los selectores de `class` and `id` en el ejercicio. Recuerda utilizar los selectores si y solo si, quieres editar _cada_ elemento de ese tipo
 - Usa un solo archivo para darles estilos a las páginas
-- Usa las imágenes para construir los diferentes elementos de la página:
+- Usa las imágenes para construir los diferentes elementos de la página
 
 - Utiliza los elementos que te proporcionamos para crear el código:
   - El background con la foto del apple pie
@@ -38,7 +37,7 @@ $ git commit -m "done"
 $ git push origin main
 ```
 
-Crea una Pull Request para que tus maestros puedan verificar 
+Crea una Pull Request para que tus instructores puedan verificar 
 
 ## Instrucciones
 
@@ -55,8 +54,7 @@ Encontrarás una screenshot (captura de pantalla) sobre lo que se espera del res
 
 ## Puntos extra
 
-La práctica hace a al maestro jedi, si piensas que necesitas más práctica, puedes seguir trabajando sobre el ejersicio `french-soup`. Dentro encontrarás un `expected-result.md` . Donde podrás encontrar 
-la versión final. Tiene la misma estructura que `apple-pie`
+La práctica hace a al maestro jedi, si piensas que necesitas más práctica, puedes seguir trabajando sobre el ejercicio `french-soup`. Dentro encontrarás un `expected-result.md` . Donde podrás encontrar la versión final. Tiene la misma estructura que `apple-pie`
 
 ## Recursos Extra
 

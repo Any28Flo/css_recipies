@@ -1,9 +1,50 @@
-/*Some necessary adjustments*/
-h1,body,html,main {
-  margin: 0;
-}
-/*Import the font and set the default size*/
+
 html {
   font-family: "Open Sans", sans-serif;
-  font-size: 18px;
+  font-size: 25px; /* 18px was default */
+}
+body{
+  margin: 0 0;
+}
+h1{
+  background-image: url(../images/apple-pie.jpg);
+  background-size: 100%;
+  height: 650px;
+  color: white;
+  font-size: 75px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-weight: 300;
+  margin: 0 0;
+}
+
+main{
+  margin: 0 10rem;
+}
+#recipe_info{
+  background-image: url(../images/recipe-info.png);
+  height: 100px;
+  background-repeat: no-repeat;
+  background-position-x: center;
+  background-size: 50%;
+}
+#preparation{
+  background-image: url(../images/cooking-info.png);
+  height: 100px;
+  background-repeat: no-repeat;
+  background-position-x: center;
+  background-size: 45%;
+}
+.story{
+  margin: 50px 0;
+}
+.ingredients {
+  font-weight: 600;
+  margin: 50px 0;
+}
+.directions {
+  font-weight: 600;
+  margin: 50px 0;
 }

@@ -38,7 +38,7 @@ $ git commit -m "done"
 $ git push origin master
 ```
 
-Crea una Pull Request para que tus maestros puedan verificar la PR
+Crea una Pull Request para que tus maestros puedan verificar 
 
 ## Instrucciones
 

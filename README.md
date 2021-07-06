@@ -2,31 +2,31 @@
 
 ## Introdución
 
-Ya aprendimos los puntos básicos sobre el HTML y el CSS, así que ya somos jovenes jedi, ERROR, 
+Ya aprendimos los puntos básicos sobre el HTML y el CSS, así que ya somos jovenes jedi, ¡ERROR!, 
 para eso necesitas mucha práctica y construir proyectos realmente cool, como el que vamos a hacer.
 
-Todos tenemos que cocinar, pero yo realmente soy malisima en ello. Por eso siempre ando pidiendo 
+Todos tenemos que cocinar, pero yo realmente soy malísima en ello. Por eso siempre ando pidiendo 
 recetas y las anoto en un cuaderno, pero no es lo más eficiente. Como ya hemos aprendido HTML y CSS 
 me gustaría tener una página donde pueda verlo.
 
-JC me dío una receta buenisima de un pastel de manzana y una sopa Francesa de cebolla buenisima, y las quiero escribir el código.
+JC me dío una receta de un pastel de manzana y una sopa Francesa de cebolla buenísima, y las quiero escribir con código.
 
 Hacer clones o copias de algo que ya existe es la mejor forma de practicar nuestras habilidades Jedi.
 
-Acá te vamos a proporcionar el codigo inicial.
+Acá te vamos a proporcionar el código inicial.
 ## Requirements
 
-- [Fork](https://guides.github.com/activities/forking/) este remo
+- [Fork](https://guides.github.com/activities/forking/) este repo
 - Clona este repo
-- Asegurate de utilizar los selectores de `class` and `id` en el ejersicio. Recuerda utilizar los
+- Asegurate de utilizar los selectores de `class` and `id` en el ejercicio. Recuerda utilizar los
 selectores si y solo si, quieres editar _cada_ elemento de ese tipo
 - Usa un solo archivo para darles estilos a las páginas
-- Usa las imagenes para construir los diferentes elementos de la página:
+- Usa las imágenes para construir los diferentes elementos de la página:
 
 - Utiliza los elementos que te proporcionamos para crear el código:
   - El background con la foto del apple pie
-  - The recipe servings / nutrients section
-  - The prep section
+  - Los requisitos y preparativos / La sección de nutrientes
+  - La sección de preparación
 
 ## Envío
 
@@ -42,7 +42,7 @@ Crea una Pull Request para que tus maestros puedan verificar
 
 ## Instrucciones
 
-Vaz a trabajar en el folder `apple-pie`. Dentro encontrarás todos los archivos, imagenes, copys necesarios para crear la página. El copy lo encontrarás dentro de `index.html`, y el archivo css dentro de  `styles/style.css`.
+Vaz a trabajar en el folder `apple-pie`. Dentro encontrarás todos los archivos, imágenes y copys necesarios para crear la página. El copy lo encontrarás dentro de `index.html`, y el archivo css dentro de  `styles/style.css`.
 
 ## Esperado
 
@@ -55,7 +55,7 @@ Encontrarás una screenshot (captura de pantalla) sobre lo que se espera del res
 
 ## Puntos extra
 
-La practica hace a un maestro jedi, si piensas que necesitas más práctica, puedes seguir trabajando sobre el ejersicio `french-soup`. Dentro encontrarás un `expected-result.md` . Donde podrás encontrar 
+La práctica hace a al maestro jedi, si piensas que necesitas más práctica, puedes seguir trabajando sobre el ejersicio `french-soup`. Dentro encontrarás un `expected-result.md` . Donde podrás encontrar 
 la versión final. Tiene la misma estructura que `apple-pie`
 
 ## Recursos Extra

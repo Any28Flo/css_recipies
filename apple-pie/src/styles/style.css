@@ -17,6 +17,7 @@ html {
 
 
 h1{
+  font-size: 6em;
   height: 800px;
   color: white;
   display: flex;

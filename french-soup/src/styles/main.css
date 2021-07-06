@@ -7,3 +7,70 @@ h1, body, html, main {
    font-family: 'Open Sans', sans-serif;
    font-size: 18px
 }
+
+.header {
+  position: relative;
+  height: 100vh;
+  width: 100vw;
+  background: url("../images/soup.jpg");
+  background-size: cover;
+  background-position-y: 100%;
+
+}
+
+.header p {
+  color: #fff;
+  margin: 0;
+  font-size: 5rem;
+  position: relative;
+  text-align: center;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+#instrucciones {
+  margin: 5rem 6rem;
+}
+
+h3 {
+  font-size: 1.8rem;
+}
+
+.description {
+  box-sizing: border-box;
+  text-align: center;
+  font-size: 2rem;
+  text-align: center;
+  color: #555;
+}
+
+.recipe {
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+  margin: 2rem 0;
+}
+
+hr {
+  color: #999;
+  height: 2px;
+  background: #999;
+  width: 84vw;
+}
+
+
+
+ul {
+  list-style-type: none;
+}
+
+ul li {
+  color: #555;
+  font-size: 1.5rem;
+}
+
+.proceso {
+  color: #555;
+  margin: 0 1rem;
+  font-size: 1.5rem;
+}

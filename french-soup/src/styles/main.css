@@ -7,3 +7,39 @@ h1, body, html, main {
    font-family: 'Open Sans', sans-serif;
    font-size: 18px
 }
+
+#imgBackground{
+  height: 800px;
+  background-image: url(../images/soup.jpg);
+  background-size: cover;
+}
+
+h1{
+  font-size: 6em;
+  height: 800px;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h2{
+  font-size: 1.2em;
+  margin: 5%;
+}
+
+.imgCenter{
+  margin: auto;
+  padding: 5%;
+  display: block;
+  width: 50%;
+}
+
+#recipeCorpus{
+  margin-right: 10%;
+  margin-left: 10%;
+}
+
+*{
+  font-family: 'Montserrat', sans-serif;
+}

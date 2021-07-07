@@ -7,3 +7,82 @@ html {
   font-family: "Open Sans", sans-serif;
   font-size: 18px;
 }
+
+/*.header{
+  height: 300px;
+  width: 10vw;
+  background: url("../images/apple-pie.jpg");
+  background-size: cover;
+}*/
+
+/*
+h1 {
+  text-align: center;
+}
+*/
+
+.caja{
+  position: relative;
+  display: inline-block;
+  height: 600px;
+  width: 100vw;
+  margin:0 auto;
+  /*justify-content: center;*/
+  text-align: center;
+}
+
+.texto1{
+  position: absolute;
+  color: white;
+  top: 400px;
+  font-size: 140px;
+  width: 100vw;
+  margin:0 auto;
+  text-align: center;
+}
+
+p{
+  top: 600px;
+  font-size: 30px;
+  width: 90vw;
+  margin:0 auto;
+  /*text-align: center;*/
+}
+
+.caja1{
+  position: relative;
+  display: inline-block;
+  height: 100px;
+  width: 100vw;
+  margin:0 auto;
+  /*justify-content: center;*/
+  text-align: center;
+}
+
+
+.caja2{
+  position: relative;
+  display: inline-block;
+  height: 100px;
+  width: 100vw;
+  margin:0 auto;
+  /*justify-content: center;*/
+  text-align: center;
+}
+
+
+h2, h3{
+  top: 600px;
+  font-size: 30px;
+  width: 90vw;
+  margin:0 auto;
+  /*text-align: center;*/
+}
+
+ul,li{
+  top: 600px;
+  font-size: 30px;
+  width: 90vw;
+  margin:0 auto;
+  /*text-align: center;*/
+}

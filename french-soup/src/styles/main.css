@@ -7,3 +7,33 @@ h1, body, html, main {
    font-family: 'Open Sans', sans-serif;
    font-size: 18px
 }
+header{
+  height: 300px;
+  width: 200vh;
+  background: url("../images/soup.jpg");
+  background-size: cover;
+}
+.h1{
+  color: white;
+  text-align: center;
+  line-height: 250px;
+}
+p{
+  margin-left: 25% ;
+}
+.img{
+  width: 25%;
+  height: 25%;
+  display:block;
+  margin:auto;
+}
+hr{
+margin-left: 25%;
+margin-right: 25%;
+}
+.box{
+  margin-left: 25%;
+}
+ul ol{
+  list-style-position: inside;
+}

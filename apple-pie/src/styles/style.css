@@ -2,8 +2,29 @@
 h1,body,html,main {
   margin: 0;
 }
+.centrartexto{
+  padding-right: 80px;
+  padding-left: 80px;
+}
 /*Import the font and set the default size*/
 html {
   font-family: "Open Sans", sans-serif;
   font-size: 18px;
+}
+.fondo{
+  background-image: url("/src/images/apple-pie.jpg");
+  width: 100vw;
+  height: 100vh;
+  text-align: center;
+  padding-top: 50vh;
+  color: aliceblue;
+  font-size: 150px;
+}
+.centrar{
+  padding-left: 20vw;
+  padding-right: 20vw;
+}
+.centrarimagenpeq{
+  padding-left: 22vw;
+  padding-right: 25vw;
 }

@@ -1,9 +1,51 @@
-/*Some necessary adjustments*/
-h1,body,html,main {
+h1,body,html,main 
+{
   margin: 0;
 }
-/*Import the font and set the default size*/
-html {
-  font-family: "Open Sans", sans-serif;
+
+html
+{
+  font-family: Georgia, 'Times New Roman', Times, serif;
   font-size: 18px;
+}
+
+.receta
+{
+  margin-right: 10%;
+  margin-left: 10%;
+}
+
+h1
+{  
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h2
+{
+  font-size: 18px;
+  margin: 3%;
+}
+
+.imagenFondo
+{  
+  background-image: url(../images/apple-pie.jpg);
+  height: 350px;
+  background-size: cover;
+}
+
+.imagenCooking
+{
+  margin: auto;
+  display: block;
+  width: 40%;
+}
+
+.imagenRecipe
+{
+  margin: auto;
+  display: block;
+  width: 40%;
 }

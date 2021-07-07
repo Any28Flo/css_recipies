@@ -7,3 +7,34 @@ html {
   font-family: "Open Sans", sans-serif;
   font-size: 18px;
 }
+header{
+  height: 300px;
+  width: 200vh;
+  background: url("../images/apple-pie.jpg");
+  background-size: cover;
+}
+.h1{
+  color: white;
+  text-align: center;
+  line-height: 250px;
+}
+p{
+  margin-left: 25% ;
+}
+.img{
+  width: 25%;
+  height: 25%;
+  display:block;
+  margin:auto;
+  vertical-align: middle;
+}
+hr{
+margin-left: 25%;
+margin-right: 15%;
+}
+.box{
+  margin-left: 25%;
+}
+ul ol{
+  list-style-position: inside;
+}

@@ -1,9 +1,85 @@
 /*Some necessary adjustments*/
-h1,body,html,main {
+h1,body,html,main, h3, p {
   margin: 0;
+  --white: #fff;
+  font-size: 18px;
 }
 /*Import the font and set the default size*/
 html {
   font-family: "Open Sans", sans-serif;
   font-size: 18px;
+}
+header{
+  background-image: url('../images/apple-pie.jpg');
+  background-size: cover;
+  height: 100vh;
+  width: 100vw;
+  color: var(--white);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  font-size: 4em;
+  font-weight: 100;
+}
+main, section, footer{
+  width: 100vw;
+}
+article {
+  width: 80vw;
+}
+
+main {
+  height: 50vh;
+  display: flex;
+  justify-content: center;
+}
+
+main article{
+  width: 80vw;
+  height: inherit;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+}
+article img {
+  width: 60vw;
+}
+ hr {
+   width: inherit;
+ }
+
+section {
+  display: flex;
+  justify-content: center;
+}
+
+section li {
+  list-style: none;
+}
+
+article div {
+  display: flex;
+  justify-content: center;
+}
+
+footer {
+  height: 60vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+footer article {
+  height: 50vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+
+footer article div {
+  flex-direction: column;
 }

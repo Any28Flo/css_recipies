@@ -3,6 +3,7 @@ h1,body,html,main, h3, p {
   margin: 0;
   --white: #fff;
   font-size: 18px;
+  --gray: #656565;
 }
 /*Import the font and set the default size*/
 html {
@@ -24,6 +25,19 @@ h1 {
   font-size: 4em;
   font-weight: 100;
 }
+
+h3, li, p {
+  color: var(--gray);
+}
+
+h3{
+  font-weight: 400;
+}
+
+p, li{
+  font-weight: 300;
+}
+
 main, section, footer{
   width: 100vw;
 }
@@ -46,7 +60,7 @@ main article{
   align-items: center;
 }
 article img {
-  width: 60vw;
+  width: 50vw;
 }
  hr {
    width: inherit;

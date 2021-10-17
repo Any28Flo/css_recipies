@@ -7,3 +7,32 @@ html {
   font-family: "Open Sans", sans-serif;
   font-size: 18px;
 }
+
+.main-image-size{
+  width:100%;
+  height: auto;
+}
+
+.text-overlay {
+  position: relative;
+}
+
+.centered-title {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+}
+
+.main-margin {
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-bottom: 5%;
+}
+
+.centered-position{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}

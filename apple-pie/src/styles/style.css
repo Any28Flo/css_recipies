@@ -1,9 +1,74 @@
-/*Some necessary adjustments*/
-h1,body,html,main {
-  margin: 0;
-}
+
 /*Import the font and set the default size*/
-html {
+body {
   font-family: "Open Sans", sans-serif;
-  font-size: 18px;
+  /*font-size: 25px;*/
+  margin: 0;
+
 }
+
+.intro{
+  background-image: url(./../images/apple-pie.jpg);
+  height: 100vh;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: aliceblue;
+  font-size: 5em;
+  
+}
+
+.description p {
+  /*padding: 45px;*/
+  text-justify: distribute-all-lines;
+  border: 25px;
+  color: gray;
+  font-size: 20px;
+}
+
+.description img{
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.description{
+  border-bottom: solid gray;
+  padding: 60px;
+
+}
+
+.ingredients h2{
+  padding: 25px;
+  color: gray;
+}
+.ingredients ul{
+  color: gray;
+  font-size: 15px;
+}
+.ingredients img{
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+}
+.ingredients{
+  border-bottom: solid gray;
+  padding: 60px;
+}
+
+.direction h2{
+  padding: 25px;
+  color: gray;
+}
+
+.direction ul{
+  color: gray;
+  font-size: 15px;
+  list-style: decimal;
+}
+
+.direction{
+  padding: 60px;
+}
+

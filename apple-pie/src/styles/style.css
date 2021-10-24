@@ -4,6 +4,73 @@ h1,body,html,main {
 }
 /*Import the font and set the default size*/
 html {
-  font-family: "Open Sans", sans-serif;
-  font-size: 18px;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 10px; /* default size 18 px */
 }
+
+
+#coverPage{
+  background-image: url(./../images/apple-pie.jpg) ;
+  height: 90em;
+  width: 100vw;
+  background-position: top;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.coverPage__txt h1{
+  display: inline-block;
+  position: absolute;
+  top: 65%;
+  left: 35%;
+  color: #fff;
+  font-size: 10em;
+  font-weight: 400;
+}
+
+
+#resume, #ingredients, #directions{
+  margin: 5em;
+  padding: 3em 9em;
+}
+
+.element__txt h1{
+  display: inline-block;
+  font-size: 3em;
+  font-weight: 500;
+}
+
+
+.element__txt p{
+  display: inline-block;
+  font-size: 3em;
+  font-weight: 300;
+  width: auto;
+}
+
+.element__ul {
+  list-style: none;
+  margin-top: 3em;
+  margin-bottom: 5em;
+  padding-left: 1em;
+}
+
+.element__ul li{
+  
+  font-size: 2.8em;
+  font-weight: 300;
+  line-height: 1.2em;
+}
+
+
+.element__img{
+  border-bottom: 2px solid gray;
+  display: flex;
+  justify-content: center;
+}
+
+.element__img img{
+  margin-bottom: 3em;
+}
+
+

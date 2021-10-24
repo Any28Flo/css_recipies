@@ -1,9 +1,75 @@
 /*Some necessary adjustments*/
-h1, body, html, main {
-    margin: 0;
-  }
-  /*Import the font and set the default size*/
- html {
-   font-family: 'Open Sans', sans-serif;
-   font-size: 18px
+h1,body,html,main {
+  margin: 0;
+}
+/*Import the font and set the default size*/
+html {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 10px; /* default size 18 px */
+}
+
+
+
+#coverPage{
+  background-image: url(./../images/soup.jpg) ;
+  height: 115vh;
+  width: 100vw;
+  background-position: 100% -40em;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.coverPage__txt h1{
+  display: inline-block;
+  position: absolute;
+  top: 45%;
+  left: 19.5%;
+  color: #fff;
+  font-size: 10em;
+  font-weight: 400;
+}
+
+
+#resume, #ingredients, #directions{
+  margin: 5em;
+  padding: 3em 9em;
+}
+
+.element__txt h1{
+  display: inline-block;
+  font-size: 3em;
+  font-weight: 500;
+}
+
+
+.element__txt p{
+  display: inline-block;
+  font-size: 3em;
+  font-weight: 300;
+  width: auto;
+}
+
+.element__ul {
+  list-style: none;
+  margin-top: 3em;
+  margin-bottom: 5em;
+  padding-left: 1em;
+}
+
+.element__ul li{
+  
+  font-size: 2.8em;
+  font-weight: 300;
+  line-height: 1.5em;
+}
+
+
+.element__img{
+  border-bottom: 2px solid gray;
+  display: flex;
+  justify-content: center;
+}
+
+.element__img img{
+  margin-bottom: 3em;
 }
